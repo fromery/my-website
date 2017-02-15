@@ -9,6 +9,10 @@ Updates made on master on GiHub before rebase
 
 Something new with tags
 
+## Geting Started
+
+To get started with this project, just `clone` this repository,
+
 
 
 
